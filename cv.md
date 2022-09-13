@@ -1,7 +1,5 @@
 # **Artem Makarov** #
 
->_You have to study a lot to know even a little. Charles Louis Montesquieu_
-
 ### **Contact information** ###
 
 - **Location**: Vilnius, Lithuania
